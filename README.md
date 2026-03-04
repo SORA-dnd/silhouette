@@ -104,5 +104,4 @@ If you enjoy this module, consider supporting me on Patreon to explore more cont
 **Author:** Reslin
 
 Built with ❤️ for the Foundry VTT community.
-[![Discord](https://img.shields.io/badge/Discord-Join%20Us-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9bEgRqqDF)
 
