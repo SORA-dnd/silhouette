@@ -3,7 +3,6 @@
 > 🎨 A powerful in-browser token creation tool for **Foundry VTT v13**
 
 Create professional tokens directly inside Foundry VTT — no Photoshop needed. Load a character portrait, remove the background with magic wand & brushes, add a metallic token ring, and export a polished PNG in seconds.
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ctjIoP2XZ-M?si=62MHGMVRjH9aScn9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 ---
 
 ## ✨ Features
