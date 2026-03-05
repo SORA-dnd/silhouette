@@ -4,7 +4,7 @@
 
 Create professional tokens directly inside Foundry VTT — no Photoshop needed. Load a character portrait, remove the background with magic wand & brushes, add a metallic token ring, and export a polished PNG in seconds.
 ---
-https://youtu.be/ctjIoP2XZ-M?si=QqE80YX1RStNRiSV
+[![DEMO]([https://img.youtube.com/vi/视频ID/0](https://youtu.be/ctjIoP2XZ-M?si=QqE80YX1RStNRiSV).jpg)]([https://www.youtube.com/watch?v=视频ID](https://youtu.be/ctjIoP2XZ-M?si=QqE80YX1RStNRiSV))
 
 ## ✨ Features
 
