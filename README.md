@@ -1,29 +1,29 @@
 # Silhouette — Token Forge
 
-> 🎨 A powerful in-browser token creation tool for **Foundry VTT v13**
+>  A powerful in-browser token creation tool for **Foundry VTT v13**
 
 Create professional tokens directly inside Foundry VTT — no Photoshop needed. Load a character portrait, remove the background with magic wand & brushes, add a metallic token ring, and export a polished PNG in seconds.
 ---
 
-## ✨ Features
+##  Features
 
-### 🪄 Background Removal
+###  Background Removal
 - **Magic Wand** — Click to select similar-colored areas with adjustable tolerance
 - **Marquee / Lasso** — Rectangular and freeform selection
 - **Eraser** — Pixel-level cleanup with adjustable brush size
 - **Restore Brush** — Bring back over-erased pixels from the original image
 
-### 💍 Token Ring System
+###  Token Ring System
 - **10 built-in SVG token rings** with realistic metallic textures (gold, silver, crimson, arcane blue, etc.)
 - **Load custom ring images** — Use your own PNG/SVG ring designs
 - **Show / Hide ring** toggle for quick comparison
 - **Ring area tool** — Manually define the clipping circle
 
-### ↗️ Overflow (Pop-out) Effect
+###  Overflow (Pop-out) Effect
 - Paint areas of the portrait that should extend **above** the token ring
 - Creates a dynamic, layered look (swords, capes, wings popping out of the frame)
 
-### 📦 Export
+###  Export
 - **Multiple resolutions**: 256 / 512 / 1024 / 2048 px
 - **Auto-named exports**: Filename based on source image + `_token` suffix
 - **Auto-copy path** to clipboard after export
@@ -43,7 +43,7 @@ Create professional tokens directly inside Foundry VTT — no Photoshop needed. 
 
 ---
 
-## 📥 Installation
+##  Installation
 
 ### Method 1: Manifest URL (Recommended)
 1. In Foundry VTT, go to **Add-on Modules** → **Install Module**
@@ -60,10 +60,10 @@ Create professional tokens directly inside Foundry VTT — no Photoshop needed. 
 
 ---
 
-## 🚀 Quick Start
+##  Quick Start
 
 1. **Enable** the module in your world settings
-2. Click the ✂️ **Token Forge** button in the left toolbar
+2. Click the  **Token Forge** button in the left toolbar
 3. **Click** the canvas to browse and load a character portrait
 4. Use the **Magic Wand** to click & delete the background
 5. Fine-tune with **Eraser** and **Restore Brush**
@@ -74,14 +74,14 @@ Create professional tokens directly inside Foundry VTT — no Photoshop needed. 
 
 ---
 
-## 🌐 Localization
+##  Localization
 
 - 🇬🇧 English
 - 🇨🇳 简体中文
 
 ---
 
-## 📋 Compatibility
+##  Compatibility
 
 | | Version |
 |---|---------|
@@ -90,7 +90,7 @@ Create professional tokens directly inside Foundry VTT — no Photoshop needed. 
 
 ---
 
-## ❤️ Support
+## Support
 
 If you enjoy this module, consider supporting me on Patreon to explore more content and get access to all my creations!
 
@@ -98,7 +98,7 @@ If you enjoy this module, consider supporting me on Patreon to explore more cont
 
 ---
 
-## 🙏 Credits
+##  Credits
 
 **Author:** Reslin
 
